@@ -1,0 +1,1 @@
+VAE applied to Sentinel images with and without MLP
